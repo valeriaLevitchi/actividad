@@ -1,0 +1,17 @@
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\bin\Debug\net6.0-windows\actividad1_02.exe
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\bin\Debug\net6.0-windows\actividad1_02.deps.json
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\bin\Debug\net6.0-windows\actividad1_02.runtimeconfig.json
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\bin\Debug\net6.0-windows\actividad1_02.dll
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\bin\Debug\net6.0-windows\actividad1_02.pdb
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.csproj.AssemblyReference.cache
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.Form1.resources
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.csproj.GenerateResource.cache
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.AssemblyInfoInputs.cache
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.AssemblyInfo.cs
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.dll
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\refint\actividad1_02.dll
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.pdb
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\actividad1_02.genruntimeconfig.cache
+C:\Users\Valeria\OneDrive\Escritorio\actividad1_02\actividad1_02\obj\Debug\net6.0-windows\ref\actividad1_02.dll
